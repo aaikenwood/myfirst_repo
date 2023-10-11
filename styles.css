@@ -3,6 +3,10 @@ body {
     background-color: chartreuse;
 }
 li {
-    color:re;
+    color:rgb(189, 14, 14);
     background-color: red;
+}
+footer{
+    background-color: wheat;
+    border: 3px;
 }
