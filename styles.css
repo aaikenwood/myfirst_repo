@@ -3,10 +3,14 @@ body {
     background-color: chartreuse;
 }
 li {
-    color:re;
+    color:rgb(189, 14, 14);
     background-color: red;
 }
 h2 {
     color:rgb(78, 122, 32);
     background-color: rgb(78, 71, 32);
+}
+footer{
+    background-color: wheat;
+    border: 3px;
 }
