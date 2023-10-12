@@ -1,16 +1,16 @@
 body {
     color: yellow;
-    background-color: chartreuse;
+    background-color: black;
 }
 li {
-    color:rgb(189, 14, 14);
-    background-color: red;
+    color:yellow;
+    background-color:black;
 }
 h2 {
     color:rgb(78, 122, 32);
-    background-color: rgb(78, 71, 32);
+    background-color: black;
 }
 footer{
-    background-color: wheat;
+    background-color:black;
     border: 3px;
 }
